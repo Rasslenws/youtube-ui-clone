@@ -1,0 +1,134 @@
+header{
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.logo{
+    display: inline-block;
+    width: 80px;
+    height: 20px;
+    
+}
+.logo-tub{
+    display: inline-block;
+    
+}
+
+
+.fasfa-stream {
+    display: inline-block;
+    
+}
+.ligne{
+    display: inline-block;
+
+}
+.ligne-top{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -4px;
+
+}
+.search-bar{
+    vertical-align: top;
+    display: inline-block;
+    width: 200px;
+
+}
+
+.search-button{
+    margin-left: -7px;
+    cursor: pointer;
+
+}
+.micro-div{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 5px;
+    margin-top: -1px;
+    background-color:rgb(217, 217, 217);
+    border-radius:90%;
+    width: 23px;
+    height: 23px;
+    
+}
+.micro{
+    padding-top: 3px ;
+    padding-left: 5px
+}
+.video{
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 2px;
+
+}
+.grid{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+    margin-top: 2px;
+}
+.not{
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 2px;
+}
+.badge{
+position: absolute;
+top: -20px;
+margin-left: 8px; 
+padding-left: 6px;
+padding-right: 6px;
+padding-top: 2px;
+padding-bottom: 2px;
+border-radius: 50%;
+background: rgb(190, 3, 3);
+color: white;
+}
+.img-chaine{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 1px;
+}
+.img{
+    width: 25px;
+    margin-left: 20px;
+    margin-top: -4px;
+    
+}
+aside{
+    display: block;
+}
+.home{
+    margin-left: -3px;
+    margin-top: 20px;
+}
+p{
+    font-family: poppins;
+    font-size: 10px;
+    margin-bottom: 20px;
+    margin-left: -4px;
+    
+}
+main{
+    display: inline-block;
+
+}
+.img1{
+
+width: 250px;
+height: 150px;
+
+
+}
+.img2{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+.text-logo{
+    display: inline-block;
+    
+}
